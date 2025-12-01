@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @PRIYANSHU-KAMBOJ1903
-- 👀 I’m interested in coding skills.
-- 🌱 I’m currently learning in Chandigarh University.
-- 💞️ I’m looking to make my skills more better.
+- 🚀 Passionate about building full-stack web applications  
+- 👨‍💻 MERN Developer in progress...
+- 🔧 Tech: MongoDB | Express.js | React.js | Node.js | JavaScript | Git
+- 📩 Open to collaboration and new opportunities
 - 📫 My email Id is priyanshukamboj1903@gmail.com
 
 <!---
