@@ -7,9 +7,9 @@
 ### 👨‍💻 About Me
 - 🎓 Computer Science Student at **Chandigarh University**
 - 🚀 **Full-Stack Developer** specializing in the MERN stack, TypeScript, and scalable architectures
-- 💼 Built enterprise platforms including **CRM Sport** (AI-driven CRM with Twilio Voice/SMS) and full-stack e-commerce platforms
+- 💼 Built enterprise platforms including **CRM Sport** (AI-driven CRM with Twilio Voice/SMS) and full-stack web applications
 - 💬 Ask me about **React, Node.js, Express, MongoDB, REST APIs, and System Design**
-- ⚡ Fun fact: Passionate about clean code, developer tools, and building intuitive user experiences
+- ⚡ Passionate about clean code, high performance, and intuitive user experiences
 
 ---
 
@@ -41,8 +41,18 @@
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=PRIYANSHU-KAMBOJ1903&show_icons=true&theme=radical&hide_border=true" alt="Priyanshu's GitHub Stats" width="48%" />
+  <img src="https://img.shields.io/badge/Total_Contributions-284-fe428e?style=for-the-badge&logo=github&logoColor=white" alt="Total Contributions" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Total_Commits-280%2B-fe428e?style=for-the-badge&logo=git&logoColor=white" alt="Total Commits" />
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=PRIYANSHU-KAMBOJ1903&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Priyanshu's GitHub Stats" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=PRIYANSHU-KAMBOJ1903&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PRIYANSHU-KAMBOJ1903&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="97%" />
 </p>
 
 ---
